@@ -2,6 +2,9 @@
 This program takes the raw data, creates a Dataframe,
 and creates a bar graph to show the number of diamonds in
 each clarity type.
+
+Note: Final line can be edited to display chart in a pop-up or
+save as a .png file.
 """
 
 # Import libraries
