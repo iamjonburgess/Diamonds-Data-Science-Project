@@ -15,6 +15,7 @@ The different graphs include:
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [MatPlotLib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
 
 
 *Project taken from "Python All in One for Dummies" by John Shovic and Alan Simpson*
