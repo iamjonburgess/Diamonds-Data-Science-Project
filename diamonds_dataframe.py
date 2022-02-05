@@ -14,11 +14,11 @@ print(df.head(10))
 
 # Calculate total value of diamonds
 sum = df.price.sum()
-print("Total $ Value of Diamonds: ${:0,.2f}".format(sum))
+print('Total $ Value of Diamonds: ${:0,.2f}'.format(sum))
 
 # Calculate mean price of diamonds
 mean = df.price.mean()
-print("Mean $ Value of Diamonds: ${:0,.2f}".format(mean))
+print('Mean $ Value of Diamonds: ${:0,.2f}'.format(mean))
 
 # Summarize the data
 descrip = df.carat.describe()
